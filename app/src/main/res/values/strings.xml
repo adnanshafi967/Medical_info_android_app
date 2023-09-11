@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">MedicalInfo</string>
+    <string name="app_name">Medical Information</string>
     <string name="hello_md">Hello, md!</string>
+    <string name="dial_emergency_contact">Dial Emergency Contact</string>
 </resources>
